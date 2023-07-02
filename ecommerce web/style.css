@@ -1,0 +1,17 @@
+*{
+    padding: 0; margin: 0;
+    box-sizing: border-box;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 90vh;
+}
+.aboutimg{
+    width: 100%;
+    height: 300px!important;
+}
+.navbar-brand{
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
